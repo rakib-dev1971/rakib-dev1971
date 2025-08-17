@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi, I’m Rakib
 #### Full-Stack Developer | Server Administrator | Open-Source Enthusiast
-![Full-Stack Developer | Server Administrator | Open-Source Enthusiast](https://github.com/rakib-dev1971/rakib-dev1971/blob/main/banner.jpg)
+![Full-Stack Developer | Server Administrator | Open-Source Enthusiast](https://github.com/rakib-dev1971/rakib-dev1971/blob/main/Devops.jpeg?raw=true) 
 
 I’m a developer passionate about writing clean code and managing secure servers. With experience in backend development, Linux system administration, and DevOps practices, I enjoy building scalable solutions and optimizing performance. Currently, I’m exploring full-stack development and contributing to open-source projects.
 
