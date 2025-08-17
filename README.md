@@ -17,6 +17,8 @@ Skills: HTML / CSS/Python/Linux/Docker/DevOps/Kubernetes
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rakib-dev1971)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralon)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub metrics](https://metrics.lecoq.io/rakib-dev1971)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rakib-dev1971)  
